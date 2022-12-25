@@ -14,5 +14,5 @@
   - [Hackathons](https://devpost.com/brandonw504)
 
 - #### Contact Me!
-  - [Resume](https://portfolio-brandonw504.vercel.app)
+  - [Resume](https://portfolio-brandonw504.vercel.app/resume.pdf)
   - [LinkedIn](https://www.linkedin.com/in/brandonw504)
