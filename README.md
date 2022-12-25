@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey! I'm Brandon!
 
-<!--
-**brandonw504/brandonw504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- #### I'm a junior at the University of California, Davis majoring in Computer Science and minoring in Technology Management. 
 
-Here are some ideas to get you started:
+- #### Visit my [personal website](https://portfolio-brandonw504.vercel.app)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### I volunteered as a Software Engineer at [#include](http://includedavis.com/), developing websites for non-profit and student organizations.
+
+- #### I do iOS and full-stack development. Some of my projects include:
+  - [Shoppr](https://github.com/brandonw504/shoppr)
+  - [Music Map](https://github.com/Austin2Shih/Music-Map)
+  - [Carpool App](https://github.com/brandonw504/carpool-app)
+  - [Field Event Tracker](https://github.com/brandonw504/field-event-tracker)
+  - [Hackathons](https://devpost.com/brandonw504)
+
+- #### Contact Me!
+  - [Resume](https://portfolio-brandonw504.vercel.app)
+  - [LinkedIn](https://www.linkedin.com/in/brandonw504)
