@@ -4,9 +4,10 @@
 
 - #### Visit my [personal website](https://portfolio-brandonw504.vercel.app)!
 
-- #### I volunteered as a Software Engineer at [#include](http://includedavis.com/), developing websites for non-profit and student organizations.
+- #### I've volunteered as a Software Engineer at [AggieWorks](https://aggieworks.org) and [#include](http://includedavis.com/). I've worked on a roommate matching app for UC Davis Student Housing and developed an art gallery website for an art club at UC Davis.
 
 - #### I do iOS and full-stack development. Some of my projects include:
+  - [Shazam Social](https://github.com/brandonw504/shazam-social)
   - [Shoppr](https://github.com/brandonw504/shoppr)
   - [Music Map](https://github.com/Austin2Shih/Music-Map)
   - [Carpool App](https://github.com/brandonw504/carpool-app)
