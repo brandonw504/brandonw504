@@ -1,6 +1,6 @@
 # Hey! I'm Brandon!
 
-- #### I'm a rising senior at the University of California, Davis double majoring in Computer Science and Statistics (Machine Learning track) and minoring in Technology Management. 
+- #### I'm a senior at the University of California, Davis double majoring in Computer Science and Statistics (Machine Learning track) and minoring in Technology Management. 
 
 - #### Visit my [personal website](https://portfolio-brandonw504.vercel.app)!
 
